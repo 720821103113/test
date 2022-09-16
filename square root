@@ -11,3 +11,6 @@ int main(){
     printf("The Square Root of %.2lf is %.2lf.", num, root);
     return 0;
 }
+output:
+Enter an integer: 2
+The Square Root of 2.00 is 1.41.
